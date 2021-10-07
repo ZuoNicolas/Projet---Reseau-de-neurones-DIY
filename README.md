@@ -1,1 +1,1 @@
-# Projet---R-seau-de-neurones-DIY
+# Projet---Réseau-de-neurones-DIY
